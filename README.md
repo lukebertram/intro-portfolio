@@ -18,11 +18,11 @@ Additionally, the page can be viewed by simply visiting http://lukebertram.githu
 
 ## Known Bugs
 
-I cannot figure out how to get the topmost text (Name and subtitle over the header image) to vertically align to the bottom of the container instead of the top. At this point, I'm not even sure if I want it down there anymore, but I'd sure like to see how it looks before I make the final call.
+I cannot figure out how to get the topmost text (Name and subtitle over the header image) to vertically align to the bottom of the container instead of the top.
 
 ## Support and contact details
 
-If you require support for the use of this webpage or would like to contact me, you may do so via lukebertram@gmail.com
+If you require support for the use of this website or would like to contact me about it, you may do so via my email address: lukebertram@gmail.com
 
 ## Technologies Used
 
@@ -30,6 +30,6 @@ This portfolio landing page was constructed using the Bootstrap 4 framework and,
 
 ### License
 
-Copyright (c) 2017 **_Luke Bertram_**
+This website is licensed under the MIT license?
 
-This software is licensed under the MIT license?
+Copyright (c) 2017 **_Luke Bertram_**
