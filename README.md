@@ -18,18 +18,18 @@ Additionally, the page can be viewed by simply visiting http://lukebertram.githu
 
 ## Known Bugs
 
-I cannot figure out how to get the topmost text (Name and subtitle over the header image) to vertically align to the bottom of the container instead of the top.
+I cannot figure out how to get the topmost text (Name and subtitle over the header image) to vertically align to the bottom of the container instead of the top. At this point, I'm not even sure if I want it down there anymore, but I'd sure like to see how it looks before I make the final call.
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+If you require support for the use of this webpage or would like to contact me, you may do so via lukebertram@gmail.com
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+This portfolio landing page was constructed using the Bootstrap 4 framework and, of course, HTML with CSS styling.
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-
 Copyright (c) 2017 **_Luke Bertram_**
+
+This software is licensed under the MIT license?
