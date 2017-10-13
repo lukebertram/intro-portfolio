@@ -13,6 +13,10 @@ a:hover {
   color: #d77;
 }
 
+ol {
+  list-style-type: none;
+}
+
 #profile-image {
   float: left;
   margin-right: 20px;
@@ -20,7 +24,7 @@ a:hover {
 }
 
 .title-card {
-  background-image: url(../img/StreetBattle.jpg);
+  background-image: url(../img/streetbattle.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 25% 50%;
