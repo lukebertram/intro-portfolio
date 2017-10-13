@@ -14,11 +14,11 @@ This web page is intended to serve as the landing page for a future programming 
 * Navigate to the project folder
 * Open index.html in your web browser of choice
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+Additionally, the page can be viewed by simply visiting http://lukebertram.github.io/portfolio
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+I cannot figure out how to get the topmost text (Name and subtitle over the header image) to vertically align to the bottom of the container instead of the top.
 
 ## Support and contact details
 
