@@ -6,10 +6,38 @@ body {
   color: #fff;
 }
 
+.page-header img {
+  height: 300px;
+  width: 300px;
+  float: left;
+}
+
 .title-card {
   background-color: #222;
 }
 
 .col-md-4 img {
   width: 100%;
+}
+
+.card {
+  background-color: #222;
+  margin: 20px;
+}
+.card-header {
+  background-color: #aaa;
+  color: #000;
+  text-transform: uppercase;
+  letter-spacing: -2px;
+}
+
+.card-header h2 {
+  margin-top: 0px;
+  margin-bottom: -10px;
+  font-size: 2em;
+  color: #000;
+}
+
+.card-body {
+  background-color: #333
 }
